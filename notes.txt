@@ -1,0 +1,3 @@
+starting by importing the data
+looking at data for missing info
+most missing data seems to be complete accross a whole country, so will remove those ones, that use a median for if only one month missing in a country
